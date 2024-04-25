@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+body.wp-admin .column-feedback {
+    width: 10%;
+}
+
+body.wp-admin td.column-feedback {
+    text-align: center;
+    vertical-align: middle;
+}
